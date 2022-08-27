@@ -5,8 +5,8 @@ const About = () => {
     <div name='about' className='w-full my-32'>
         <div className='max-w-[1240px] mx-auto'>
             <div className='text-center'>
-                <h2 className='text-5xl font-bold'>Trusted by developers across the world</h2>
-                <p className='text-3xl py-6 text-gray-500'>For all Your buisness needs in one place in Uganda </p>
+                <h2 className='text-5xl font-bold'>Trusted by businesses across the world</h2>
+                <p className='text-3xl py-6 text-gray-500'>For all Your buisness needs in one place, if it concerns business East Africa. We are your go between! </p>
             </div>
 
             <div className='grid md:grid-cols-3 gap-1 px-2 text-center'>
