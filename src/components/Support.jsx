@@ -16,7 +16,16 @@ const Support = () => {
           <div className='px-4 py-12'>
               <h2 className='text-3xl pt-8 text-slate-300 uppercase text-center'>Support</h2>
               <h3 className='text-5xl font-bold py-6 text-center'>Finding the right team</h3>
-              <p className='py-4 text-3xl text-slate-300'>Lorem ipsum dolor sit amet consectetur adipisicing elit. In repudiandae veritatis ratione error tenetur, voluptates architecto possimus ad! Omnis minima ea quidem quisquam unde beatae, minus illo et cum vel?</p>
+              <p className='py-4 text-3xl text-slate-300'>
+                  
+                When doing business, the fundamentals remain 
+              important and in the world of market acquisition and competition its important to stay 
+              updated with the most enguaging tools for business. These tools will help you keep up with your esteamed clients, 
+              and provide you with ability to continue to adapt to the ever-changing landscape without affecting how your customers 
+              experience your brand.
+
+              <button className='py-1 px-2 sm:w-[15%] my-2'>Meet our Team</button>
+              </p>
           </div>
 
           <div className='grid grid-cols-1 lg:grid-cols-3 relative gap-x-8 gap-y-16 px-4 pt-12 sm:pt-20 text-black'>
