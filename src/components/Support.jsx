@@ -24,7 +24,7 @@ const Support = () => {
               and provide you with ability to continue to adapt to the ever-changing landscape without affecting how your customers 
               experience your brand.
 
-              <button className='py-1 px-2 sm:w-[15%] my-2'>Meet our Team</button>
+              <button className='py-1 px-2 sm:w-[30%] my-2'>Meet our Team</button>
               </p>
           </div>
 
