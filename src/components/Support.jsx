@@ -23,9 +23,12 @@ const Support = () => {
               updated with the most enguaging tools for business. These tools will help you keep up with your esteamed clients, 
               and provide you with ability to continue to adapt to the ever-changing landscape without affecting how your customers 
               experience your brand.
-
+              
+              </p><br/>
+              <div>
               <button className='py-1 px-2 sm:w-[30%] my-2'>Meet our Team</button>
-              </p>
+              </div>
+              
           </div>
 
           <div className='grid grid-cols-1 lg:grid-cols-3 relative gap-x-8 gap-y-16 px-4 pt-12 sm:pt-20 text-black'>
