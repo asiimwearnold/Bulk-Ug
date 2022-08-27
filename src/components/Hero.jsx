@@ -6,7 +6,7 @@ import {
     ServerIcon,
 } from '@heroicons/react/solid'
 
-import bgImg from '../assets/cyber-bg.png'
+import bgImg from '../assets/URA-Tower.jpg'
 
 const Hero = () => {
   return (
@@ -14,9 +14,9 @@ const Hero = () => {
         <div className='grid md:grid-cols-2 max-w-[1240px] m-auto'>
             <div className='flex flex-col justify-center md:items-start w-full px-2 py-8'>
                 {/* <p className='text-2xl'>Unique Sequencing & Production</p> */}
-                <h1 className='py-3 text-5x2 md:text-7xl font-bold'>Business Consult and Management</h1>
+                <h1 className='py-3 text-5x1 md:text-7xl font-bold'>Business Consult & Management</h1>
                 {/* <p className='text-2xl'>This is our Tech brand.</p> */}
-                <button className='py-3 px-6 sm:w-[60%] my-4'>Get Started</button>
+                <button className='py-3 px-6 sm:w-[60%] my-4'>Request a call</button>
             </div>
             <div>
                 <img className='w-full' src={bgImg} alt="/" />
