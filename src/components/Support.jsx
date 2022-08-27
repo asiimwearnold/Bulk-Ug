@@ -25,8 +25,8 @@ const Support = () => {
               experience your brand.
               
               </p><br/>
-              <div>
-              <button className='py-1 px-2 sm:w-[30%] my-2'>Meet our Team</button>
+              <div button-center>
+              <button className='py-1 px-2 sm:w-[30%] my-2 text-center'>Meet our Team</button>
               </div>
               
           </div>
