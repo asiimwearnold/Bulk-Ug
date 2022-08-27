@@ -31,6 +31,8 @@ const Hero = () => {
                     <p className='flex px-4 py-2 text-slate-500'><ServerIcon className='h-6 text-indigo-600' /> Tax Filling</p>
                     <p className='flex px-4 py-2 text-slate-500'><PaperAirplaneIcon className='h-6 text-indigo-600' /> Bulk SMS</p>
                     <p className='flex px-4 py-2 text-slate-500'><PaperAirplaneIcon className='h-6 text-indigo-600' /> Call center </p>
+                    {/* <p className='flex px-4 py-2 text-slate-500'><PaperAirplaneIcon className='h-6 text-indigo-600' />  </p> */}
+                    <button className='py-2 px-3 sm:w-[30%] my-2'>Download Full List</button>
                 </div>
             </div>
         </div>
